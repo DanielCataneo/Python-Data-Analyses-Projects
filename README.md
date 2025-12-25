@@ -1,4 +1,10 @@
 # Python-Data-Analyses-Projects
-Projects that I created using a variety of databases, with the goal of applying Python's data analytics tools.
+Scripts para entender o básico das bibliotecas Pandas, Numpy e MatplotLib presentes na linguagem Python utilizando o Google Colab.
 
-Using Google Colab and Kaggle's Databases
+# Course Notations
+Pandas e Numpy -> Bibliotecas amplamente utilizadas para tratar dados dentro do Python.
+
+MatplotLib -> Biblioteca utilizada para gerar gráficos com os dados dentro do Python.
+
+# Course Projects
+Aplicação dessas bibliotecas em situações reais para a prática e fixação dos conteúdos aprendidos durante o Curso. 
